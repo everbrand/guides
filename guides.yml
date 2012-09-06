@@ -85,8 +85,8 @@ authors:
 
 index:
   Start Here:
-    - title: "Getting Started: Part 1"
-      url: getting_started
+    - title: "Découvrir sproutcore : partie 1"
+      url: getting_started_fr
       text: "Learn how to get your first SproutCore app up-and-running."
     - title: "Getting Started: Part 2"
       url: getting_started_2
